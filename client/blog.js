@@ -89,6 +89,7 @@ Template.newPost.rendered = function () {
     },
   });
 
+// Подсказки для тэгов
   var tagsArr = [];
   Posts.find().forEach(function (post) {
     _.each(post.tags, function (tag) {
@@ -101,6 +102,11 @@ Template.newPost.rendered = function () {
     tags: tagsArr,
     tokenSeparators: [",", " "],
     maximumInputLength: 10,
+  });
+//-- Подсказки для тэгов
+  var editor = new wysihtml5.Editor("editor-area", {
+    toolbar:        "toolbar",
+    parserRules:    wysihtml5ParserRules
   });
 
 }
@@ -264,39 +270,6 @@ Template.tag_filter.events({
     else
       Session.set('tag_filter', this.tag);
   }
-});
-// buttonBar template
-Template.buttonBar.events({
-  "click li.bold": function() {
-    document.execCommand( 'bold', false, null ); 
-  },
-  "click li.italic": function() {
-    document.execCommand('italic', false, null ); 
-  },
-  "click li.underline": function() {
-    document.execCommand('underline', false, null ); 
-  },
-  "click li.strike": function() {
-    document.execCommand('strikethrough', false, null ); 
-  },
-  "click li.JustifyLeft": function() {
-    document.execCommand('JustifyLeft', false, null ); 
-  },
-  "click li.JustifyCenter": function() {
-    document.execCommand('JustifyCenter', false, null ); 
-  },
-  "click li.JustifyRight": function() {
-    document.execCommand('JustifyRight', false, null ); 
-  },
-  "click li.JustifyFull": function() {
-    document.execCommand('JustifyFull', false, null ); 
-  },
-  "click li.CreateLink": function() {
-    document.execCommand('CreateLink', false, window.prompt( 'URL:', '' ) ); 
-  },
-  "click li.Unlink": function() {
-    document.execCommand('Unlink', false, null ); 
-  },
 });
 
 // Profile

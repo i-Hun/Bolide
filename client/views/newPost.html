@@ -8,7 +8,6 @@
     </div>
   </div>
   {{> buttonBar}}
-  <br>
   <textarea id="editor-area" placeholder=""></textarea>
   <input type="text" id="add-new-tags">
   <br>
@@ -16,22 +15,20 @@
 </template>
 
 <template name="buttonBar">
-  <div class="button-bar">
+  <div id="toolbar" class="button-bar" style="display: none;">
     <ul class="text-edit-toolbar button-group radius">
-      <li class="bold button secondary small"><i class="icon-bold"></i></li>
-      <li class="italic button secondary small"><i class="icon-italic"></i></li>
-      <li class="underline button secondary small"><i class="icon-underline"></i></li>
-      <li class="strike button secondary small"><i class="icon-strike"></i></li>
+      <li class="bold button secondary small" data-wysihtml5-command="bold" title="CTRL+B"><i class="icon-bold"></i></li>
+      <li class="bold button secondary small" data-wysihtml5-command="italic" title="CTRL+I"><i class="icon-italic"></i></li>
+      <li class="bold button secondary small" data-wysihtml5-command="underline" title="CTRL+U"><i class="icon-underline"></i></li>
     </ul>
     <ul class="text-edit-toolbar button-group radius">
-      <li class="JustifyLeft button secondary small"><i class="icon-align-left"></i></li>
-      <li class="JustifyCenter button secondary small"><i class="icon-align-center"></i></li>
-      <li class="JustifyRight button secondary small"><i class="icon-align-right"></i></li>
-      <li class="JustifyFull button secondary small"><i class="icon-align-justify"></i></li>
+      <li class="bold button secondary small" data-wysihtml5-command="createLink">insert link</li>
+      <li class="bold button secondary small" data-wysihtml5-command="insertImage">insert image</li>
+      <li class="bold button secondary small" data-wysihtml5-command="formatBlock" data-wysihtml5-command-value="h1">h1</li>
+      <li class="bold button secondary small" data-wysihtml5-command="formatBlock" data-wysihtml5-command-value="h2">h2</li>
+      <li class="bold button secondary small" data-wysihtml5-command="insertUnorderedList">insertUnorderedList</a>
+      <li class="bold button secondary small" data-wysihtml5-command="insertOrderedList">insertOrderedList</a>
     </ul>
-    <ul class="text-edit-toolbar button-group radius">
-      <li class="CreateLink button secondary small"><i class="icon-link"></i></li>
-      <li class="Unlink button secondary small"><i style="color: red" class="icon-link"></i></li>
-    </ul>
+    <li class="bold button secondary radius small" data-wysihtml5-action="change_view" title="HTML-code"><i class="icon-code-1"></i></li>      
   </div>
 </template>
