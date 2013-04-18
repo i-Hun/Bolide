@@ -1,0 +1,7 @@
+*wysihtml5
+	* wysihtml5-0.4.0pre.js: var wysihtml5 -> wysihtml5
+	* wysihtml5-0.4.0pre.js: add "value.href = "http://" + value.href;" in "composer.selection.executeAndRestore"
+	* advanced.js: var wysihtml5ParserRules -> wysihtml5ParserRules
+*TimelineJS
+	* timeline.js: var VMM = Class.extend({}); -> VMM = Class.extend({});
+	* storyjs-embed.js: add this.createStoryJS = createStoryJS at the end
