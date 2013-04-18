@@ -1,0 +1,113 @@
+<head>
+	<meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width" />
+  <title>Blog</title>
+
+  <link href="/fontello/css/fontello.css" rel="stylesheet">
+  <link href="/fontello/css/animation.css" rel="stylesheet">
+
+  <link href="/select2-3.3.2/select2.css" rel="stylesheet"/>
+  <script src="/select2-3.3.2/select2.js"></script>
+  
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+</head>
+<body>
+  {{> body}}
+  {{> editUser}}
+</body>
+
+<template name="body">
+  {{> topBar}}
+  {{#if newPost}}
+  <div class="row">
+    <div class="large-12 columns">
+      {{> newPost}}
+    </div>
+  </div>
+  {{/if}}
+  <div class="row">
+    <div class="large-12 columns">
+      {{> timeline}}
+    </div>
+  </div>
+
+	<div class="row">
+		<div class="large-8 columns">
+
+      {{> stream}}
+		</div>
+    <div class="large-4 columns">
+      <div class="row">
+        <div class="large-12 columns">
+        {{> tag_filter}}
+        </div>
+      </div>
+      <div class="row">
+        <div class="large-12 columns">
+        {{> profile}}
+        </div>
+      </div>
+    </div>
+	</div>
+
+</template>
+
+<template name="tag_filter">
+  <div id="tag-filter">
+    {{#each tags}}
+      <div class="tag {{selected}}">
+        {{tag_text}} <span class="count">({{count}})</span>
+      </div>
+    {{/each}}
+  </div>
+</template>
+
+<template name="profile">
+  {{#if currentUser}}
+  <div id="my-profile" class="card">
+    {{#each me}}
+    <table>
+      <tbody>
+        <tr>
+          <td>ID</td>
+          <td>{{_id}}</td>
+        </tr>
+        <tr>
+          <td>Email</td>
+          <td><a href="mailto:{{emails.0.address}}">{{emails.0.address}}</a></td>
+        </tr>
+        <tr>
+          <td>First name</td>
+          <td>{{firstName}}</td>
+        </tr>
+      </tbody>
+    </table>
+    {{/each}}
+    <a href="#" class="small expand button" data-reveal-id="edit-user">Изменить профиль</a>
+  </div>
+  {{/if}}
+</template>
+
+<template name="editUser">
+  <div id="edit-user" class="small reveal-modal">
+    <h2>Изменить профиль</h2>
+    <label for="first-name">Имя</label>
+    <input type="text" id="first-name">
+
+    <label for="second-name">Фамилия</label>
+    <input type="text" id="second-name">
+
+    <label for="middle-name">Отчество</label>
+    <input type="text" id="middle-name">
+
+    <a class="close-reveal-modal">&#215;</a>
+
+    <a href="#" id="submit-profile-ch" class="expand button">Применить изменения</a>
+  </div>
+</template>
+
+<template name="timeline">
+  <div id="timeline" class="card">
+    <div id="my-timeline"></div>
+  </div>
+</template>

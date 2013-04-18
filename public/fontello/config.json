@@ -1,0 +1,2200 @@
+{
+  "name": "",
+  "glyphs": [
+    {
+      "search": [
+        "@",
+        "at"
+      ],
+      "code": 64,
+      "from": 64,
+      "uid": "mjbsqg8yglgu0esc6ru2vh111jmh7qng",
+      "css": "at",
+      "orig_css": "at",
+      "orig_code": 64,
+      "src": "modernpics"
+    },
+    {
+      "search": [
+        "vkontakte"
+      ],
+      "code": 78,
+      "uid": "12db1f260b5b2ccd1aa4d8942cc7f6dd",
+      "css": "vk",
+      "orig_css": "vk",
+      "orig_code": 78,
+      "src": "zocial",
+      "from": 78
+    },
+    {
+      "search": [
+        "rss"
+      ],
+      "code": 82,
+      "uid": "2a3192d0f8fe0c7cf959168e68eb16d8",
+      "css": "rss",
+      "orig_css": "rss",
+      "orig_code": 82,
+      "src": "zocial",
+      "from": 82
+    },
+    {
+      "search": [
+        "twitter"
+      ],
+      "code": 84,
+      "uid": "b1ec8e90c2c85cf0035849980a3789b3",
+      "css": "twitter",
+      "orig_css": "twitter",
+      "orig_code": 84,
+      "src": "zocial",
+      "from": 84
+    },
+    {
+      "search": [
+        "youtube"
+      ],
+      "code": 85,
+      "uid": "57a4f84c40a0c44d47387105f162a427",
+      "css": "youtube",
+      "orig_css": "youtube",
+      "orig_code": 85,
+      "src": "zocial",
+      "from": 85
+    },
+    {
+      "search": [
+        "vimeo"
+      ],
+      "code": 86,
+      "uid": "e47352cd4c5e069288b29a2c9ab9d305",
+      "css": "vimeo",
+      "orig_css": "vimeo",
+      "orig_code": 86,
+      "src": "zocial",
+      "from": 86
+    },
+    {
+      "search": [
+        "email"
+      ],
+      "code": 93,
+      "uid": "a58032f4aafd0eec54803075f5b320d4",
+      "css": "email",
+      "orig_css": "email",
+      "orig_code": 93,
+      "src": "zocial",
+      "from": 93
+    },
+    {
+      "search": [
+        "gmail"
+      ],
+      "code": 109,
+      "uid": "b49fa3e57e92b38143e0fdcc5d9a904b",
+      "css": "gmail",
+      "orig_css": "gmail",
+      "orig_code": 109,
+      "src": "zocial",
+      "from": 109
+    },
+    {
+      "search": [
+        "home"
+      ],
+      "code": 8962,
+      "uid": "513ac180ff85bd275f2b736720cbbf5e",
+      "css": "home",
+      "orig_css": "home",
+      "orig_code": 8962,
+      "src": "entypo",
+      "from": 8962
+    },
+    {
+      "search": [
+        "star"
+      ],
+      "code": 9733,
+      "from": 9733,
+      "uid": "474656633f79ea2f1dad59ff63f6bf07",
+      "css": "star",
+      "orig_css": "star",
+      "orig_code": 9733,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "star"
+      ],
+      "code": 9734,
+      "from": 9734,
+      "uid": "d17030afaecc1e1c22349b99f3c4992a",
+      "css": "star-empty",
+      "orig_css": "star-empty",
+      "orig_code": 9734,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "check"
+      ],
+      "code": 9745,
+      "from": 9745,
+      "uid": "dd6c6b221a1088ff8a9b9cd32d0b3dd5",
+      "css": "check",
+      "orig_css": "check",
+      "orig_code": 9745,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "heart"
+      ],
+      "code": 9825,
+      "from": 9825,
+      "uid": "f3dc2d6d8fe9cf9ebff84dc260888cdf",
+      "css": "heart-empty",
+      "orig_css": "heart-empty",
+      "orig_code": 9825,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "heart"
+      ],
+      "code": 9829,
+      "from": 9829,
+      "uid": "d73eceadda1f594cec0536087539afbf",
+      "css": "heart",
+      "orig_css": "heart",
+      "orig_code": 9829,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "music",
+        "note",
+        "song"
+      ],
+      "code": 9834,
+      "uid": "39e2e6682c28e1e3b5f49825a19717c4",
+      "css": "note",
+      "orig_css": "note",
+      "orig_code": 9834,
+      "src": "entypo",
+      "from": 9834
+    },
+    {
+      "search": [
+        "flag"
+      ],
+      "code": 9873,
+      "uid": "1d2a6c3d9236b88b0f185c7c4530fa52",
+      "css": "flag",
+      "orig_css": "flag",
+      "orig_code": 9873,
+      "src": "entypo",
+      "from": 9873
+    },
+    {
+      "search": [
+        "settings",
+        "cog",
+        "gear"
+      ],
+      "code": 9881,
+      "from": 9881,
+      "uid": "e99461abfef3923546da8d745372c995",
+      "css": "cog",
+      "orig_css": "cog",
+      "orig_code": 9881,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "attention",
+        "warning",
+        "alert"
+      ],
+      "code": 9888,
+      "uid": "97902f87200ce74d181044df02a0458d",
+      "css": "attention",
+      "orig_css": "attention",
+      "orig_code": 9888,
+      "src": "entypo",
+      "from": 9888
+    },
+    {
+      "search": [
+        "mail",
+        "email"
+      ],
+      "code": 9993,
+      "from": 9993,
+      "uid": "wg849ixsobykxshs6efpc6fk4m0fq8bh",
+      "css": "mail",
+      "orig_css": "mail",
+      "orig_code": 9993,
+      "src": "typicons"
+    },
+    {
+      "search": [
+        "pencil",
+        "write",
+        "reply",
+        "edit"
+      ],
+      "code": 10000,
+      "from": 10000,
+      "uid": "97var6sq7rzo72ktzg1c6ph46u9pftbr",
+      "css": "pencil-alt",
+      "orig_css": "pencil-alt",
+      "orig_code": 10000,
+      "src": "modernpics"
+    },
+    {
+      "search": [
+        "ok",
+        true,
+        "check",
+        "mark"
+      ],
+      "code": 10003,
+      "from": 10003,
+      "uid": "7b16b22168e762c88333f465da862098",
+      "css": "ok",
+      "orig_css": "ok",
+      "orig_code": 10003,
+      "src": "websymbols"
+    },
+    {
+      "search": [
+        "close",
+        "cancel",
+        "reject"
+      ],
+      "code": 10005,
+      "from": 10005,
+      "uid": "8da3ac534210aae9c0f0e13804c1df97",
+      "css": "cancel",
+      "orig_css": "cancel",
+      "orig_code": 10005,
+      "src": "websymbols"
+    },
+    {
+      "search": [
+        "close",
+        "cancel",
+        "reject"
+      ],
+      "code": 10006,
+      "uid": "c759418c008e9562944080fee617fc76",
+      "css": "cancel-circled",
+      "orig_css": "cancel-circled",
+      "orig_code": 10006,
+      "src": "entypo",
+      "from": 10006
+    },
+    {
+      "search": [
+        "plus"
+      ],
+      "code": 10133,
+      "from": 10133,
+      "uid": "a66cdc7278e6b33b8bd44a141f5e1a8d",
+      "css": "plus-circled",
+      "orig_css": "plus-circled",
+      "orig_code": 10133,
+      "src": "entypo"
+    },
+    {
+      "search": [
+        "minus"
+      ],
+      "code": 10134,
+      "from": 10134,
+      "uid": "3eb93689881ad0804f87052a53edc2b6",
+      "css": "minus-circled",
+      "orig_css": "minus-circled",
+      "orig_code": 10134,
+      "src": "entypo"
+    },
+    {
+      "search": [
+        "direction"
+      ],
+      "code": 10146,
+      "uid": "f8513213799b244e66b2836aeee88531",
+      "css": "direction",
+      "orig_css": "direction",
+      "orig_code": 10146,
+      "src": "entypo",
+      "from": 10146
+    },
+    {
+      "search": [
+        "forward"
+      ],
+      "code": 10150,
+      "uid": "ec347024a3640deebeeab53fd0d5ad03",
+      "css": "forward",
+      "orig_css": "forward",
+      "orig_code": 10150,
+      "src": "entypo",
+      "from": 10150
+    },
+    {
+      "search": [
+        "reload",
+        "undo",
+        "arrow"
+      ],
+      "code": 10226,
+      "from": 10226,
+      "uid": "f9c3205df26e7778abac86183aefdc99",
+      "css": "ccw",
+      "orig_css": "ccw",
+      "orig_code": 10226,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "reload",
+        "redo",
+        "repeat"
+      ],
+      "code": 10227,
+      "from": 10227,
+      "uid": "bc71f4c6e53394d5ba46b063040014f1",
+      "css": "cw",
+      "orig_css": "cw",
+      "orig_code": 10227,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "star"
+      ],
+      "code": 59137,
+      "from": 59137,
+      "uid": "8f8278fbe5a2a0ea836be3c408b005d2",
+      "css": "star-half",
+      "orig_css": "star-half",
+      "orig_code": 59137,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "help",
+        "question"
+      ],
+      "code": 59140,
+      "uid": "de9a631a7d18106aea1c89ba51b1990a",
+      "css": "help-circled",
+      "orig_css": "help-circled",
+      "orig_code": 59140,
+      "src": "entypo",
+      "from": 59140
+    },
+    {
+      "search": [
+        "info"
+      ],
+      "code": 59141,
+      "uid": "7e4164950ffa4990961958b2d6318658",
+      "css": "info-circled",
+      "orig_css": "info-circled",
+      "orig_code": 59141,
+      "src": "entypo",
+      "from": 59141
+    },
+    {
+      "search": [
+        "eye",
+        "subscribe"
+      ],
+      "code": 59146,
+      "from": 59146,
+      "uid": "c5fd349cbd3d23e4ade333789c29c729",
+      "css": "eye",
+      "orig_css": "eye",
+      "orig_code": 59146,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "eye",
+        "unsubscribe"
+      ],
+      "code": 59147,
+      "from": 59147,
+      "uid": "7fd683b2c518ceb9e5fa6757f2276faa",
+      "css": "eye-off",
+      "orig_css": "eye-off",
+      "orig_code": 59147,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "tag",
+        "category",
+        "price",
+        "offer"
+      ],
+      "code": 59148,
+      "from": 59148,
+      "uid": "3db5347bd219f3bce6025780f5d9ef45",
+      "css": "tag",
+      "orig_css": "tag",
+      "orig_code": 59148,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "reply"
+      ],
+      "code": 59154,
+      "uid": "b6fc2f656ef87275889422e19550680a",
+      "css": "reply",
+      "orig_css": "reply",
+      "orig_code": 59154,
+      "src": "entypo",
+      "from": 59154
+    },
+    {
+      "search": [
+        "reply"
+      ],
+      "code": 59155,
+      "uid": "1a4b54ba5618e5364fc47a3d26c1cf59",
+      "css": "reply-all",
+      "orig_css": "reply-all",
+      "orig_code": 59155,
+      "src": "entypo",
+      "from": 59155
+    },
+    {
+      "search": [
+        "code"
+      ],
+      "code": 59413,
+      "from": 59156,
+      "uid": "838db85de51df09e2d0c34a17dc30ff6",
+      "css": "code-1",
+      "orig_css": "code",
+      "orig_code": 59413,
+      "src": "websymbols"
+    },
+    {
+      "search": [
+        "print"
+      ],
+      "code": 59158,
+      "uid": "28f124a10127a47b9d9472699193d75a",
+      "css": "print",
+      "orig_css": "print",
+      "orig_code": 59158,
+      "src": "entypo",
+      "from": 59158
+    },
+    {
+      "search": [
+        "retweet",
+        "twitter"
+      ],
+      "code": 59159,
+      "from": 59159,
+      "uid": "09feb4465d9bd1364f4e301c9ddbaa92",
+      "css": "retweet",
+      "orig_css": "retweet",
+      "orig_code": 59159,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "comment",
+        "reply",
+        "write"
+      ],
+      "code": 59160,
+      "uid": "16890362e811b4cb8de36282b071fe30",
+      "css": "comment",
+      "orig_css": "comment",
+      "orig_code": 59160,
+      "src": "entypo",
+      "from": 59160
+    },
+    {
+      "search": [
+        "chat",
+        "talk"
+      ],
+      "code": 59168,
+      "uid": "2c0b53280f82068f6bab4e2200025d9f",
+      "css": "chat",
+      "orig_css": "chat",
+      "orig_code": 59168,
+      "src": "entypo",
+      "from": 59168
+    },
+    {
+      "search": [
+        "contact",
+        "card",
+        "vcard"
+      ],
+      "code": 59170,
+      "uid": "457c8e2b305e7af74c1be4f07a01ca92",
+      "css": "vcard",
+      "orig_css": "vcard",
+      "orig_code": 59170,
+      "src": "entypo",
+      "from": 59170
+    },
+    {
+      "search": [
+        "location",
+        "mark",
+        "marker"
+      ],
+      "code": 59172,
+      "uid": "a42b598e4298f3319b25a2702a02e7ff",
+      "css": "location",
+      "orig_css": "location",
+      "orig_code": 59172,
+      "src": "entypo",
+      "from": 59172
+    },
+    {
+      "search": [
+        "down"
+      ],
+      "code": 59175,
+      "uid": "64f5a50cf7ac972a56a9a511acb5d28e",
+      "css": "map",
+      "orig_css": "map",
+      "orig_code": 59175,
+      "src": "entypo",
+      "from": 59175
+    },
+    {
+      "search": [
+        "trash",
+        "delete"
+      ],
+      "code": 59177,
+      "uid": "2626e3a1bbcd90e45849af3b58a1d594",
+      "css": "trash",
+      "orig_css": "trash",
+      "orig_code": 59177,
+      "src": "entypo",
+      "from": 59177
+    },
+    {
+      "search": [
+        "trash",
+        "delete"
+      ],
+      "code": 59411,
+      "from": 59177,
+      "uid": "f48ae54adfb27d8ada53d0fd9e34ee10",
+      "css": "trash-1",
+      "orig_css": "trash",
+      "orig_code": 59411,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "doc",
+        "article"
+      ],
+      "code": 59184,
+      "uid": "9ebd01466c6cb73106d26dbacef5f84a",
+      "file": "document_alt_stroke",
+      "css": "doc",
+      "orig_css": "doc",
+      "orig_code": 59184,
+      "src": "iconic",
+      "from": 59184
+    },
+    {
+      "search": [
+        "doc",
+        "text",
+        "article"
+      ],
+      "code": 59185,
+      "uid": "1d7c1d30ad49a988556273a238097c2a",
+      "css": "doc-text-inv",
+      "orig_css": "doc-text-inv",
+      "orig_code": 59185,
+      "src": "entypo",
+      "from": 59185
+    },
+    {
+      "search": [
+        "doc",
+        "article"
+      ],
+      "code": 59406,
+      "uid": "cb35902d643e9e6ba8ba1cf739edef9a",
+      "file": "document_alt_fill",
+      "css": "doc-inv",
+      "orig_css": "doc-inv",
+      "orig_code": 59406,
+      "src": "iconic",
+      "from": 59185
+    },
+    {
+      "search": [
+        "share"
+      ],
+      "code": 59196,
+      "uid": "91426c82d94428a33353e495418435e3",
+      "css": "share",
+      "orig_css": "share",
+      "orig_code": 59196,
+      "src": "entypo",
+      "from": 59196
+    },
+    {
+      "search": [
+        "calendar",
+        "date"
+      ],
+      "code": 59198,
+      "uid": "e2d4382fb8eb0e89e8990f4c44753342",
+      "file": "calendar_alt_fill",
+      "css": "calendar-inv",
+      "orig_css": "calendar-inv",
+      "orig_code": 59198,
+      "src": "iconic",
+      "from": 59198
+    },
+    {
+      "search": [
+        "chart",
+        "pie",
+        "diagram"
+      ],
+      "code": 59217,
+      "from": 59217,
+      "uid": "fb5082fac1794b69a1381196219a836e",
+      "css": "chart-pie",
+      "orig_css": "chart-pie",
+      "orig_code": 59217,
+      "src": "entypo"
+    },
+    {
+      "search": [
+        "database"
+      ],
+      "code": 59220,
+      "from": 59220,
+      "uid": "248db7c0563d8cee80b7041f7736dcad",
+      "css": "database",
+      "orig_css": "database",
+      "orig_code": 59220,
+      "src": "entypo"
+    },
+    {
+      "search": [
+        "arrow",
+        "down"
+      ],
+      "code": 59228,
+      "uid": "8704cd847a47b64265b8bb110c8b4d62",
+      "css": "down-open",
+      "orig_css": "down-open",
+      "orig_code": 59228,
+      "src": "entypo",
+      "from": 59228
+    },
+    {
+      "search": [
+        "arrow",
+        "left"
+      ],
+      "code": 59229,
+      "uid": "c311c48d79488965b0fab7f9cd12b6b5",
+      "css": "left-open",
+      "orig_css": "left-open",
+      "orig_code": 59229,
+      "src": "entypo",
+      "from": 59229
+    },
+    {
+      "search": [
+        "arrow",
+        "right"
+      ],
+      "code": 59230,
+      "uid": "749e7d90a9182938180f1d2d8c33584e",
+      "css": "right-open",
+      "orig_css": "right-open",
+      "orig_code": 59230,
+      "src": "entypo",
+      "from": 59230
+    },
+    {
+      "search": [
+        "arrow",
+        "up"
+      ],
+      "code": 59231,
+      "uid": "9c7ff134960bb5a82404e4aeaab366d9",
+      "css": "up-open",
+      "orig_css": "up-open",
+      "orig_code": 59231,
+      "src": "entypo",
+      "from": 59231
+    },
+    {
+      "search": [
+        "reload",
+        "refresh",
+        "update",
+        "sync"
+      ],
+      "code": 59232,
+      "from": 59232,
+      "uid": "a73c5deb486c8d66249811642e5d719a",
+      "css": "arrows-cw",
+      "orig_css": "arrows-cw",
+      "orig_code": 59232,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "back",
+        "time"
+      ],
+      "code": 59249,
+      "uid": "89eb512cb82a1c3fe83cb16134f9876c",
+      "css": "back-in-time",
+      "orig_css": "back-in-time",
+      "orig_code": 59249,
+      "src": "entypo",
+      "from": 59249
+    },
+    {
+      "search": [
+        "editor",
+        "font"
+      ],
+      "code": 59257,
+      "from": 59257,
+      "uid": "f9cbf7508cd04145ade2800169959eef",
+      "css": "font",
+      "orig_css": "font",
+      "orig_code": 59257,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "editor",
+        "bold"
+      ],
+      "code": 59258,
+      "from": 59258,
+      "uid": "02cca871bb69da75e8ee286b7055832c",
+      "css": "bold",
+      "orig_css": "bold",
+      "orig_code": 59258,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "editor",
+        "italic"
+      ],
+      "code": 59259,
+      "from": 59259,
+      "uid": "a8cb1c217f02b073db3670c061cc54d2",
+      "css": "italic",
+      "orig_css": "italic",
+      "orig_code": 59259,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "editor",
+        "height"
+      ],
+      "code": 59260,
+      "from": 59260,
+      "uid": "c009d417f87d6a27bb5a1cefd30b6cbd",
+      "css": "text-height",
+      "orig_css": "text-height",
+      "orig_code": 59260,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "editor",
+        "width"
+      ],
+      "code": 59261,
+      "from": 59261,
+      "uid": "13a971bcccd2dda26d4d4eccd8593f8a",
+      "css": "text-width",
+      "orig_css": "text-width",
+      "orig_code": 59261,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "editor",
+        "align",
+        "left"
+      ],
+      "code": 59262,
+      "from": 59262,
+      "uid": "f4f0e849b805be1f6d76b65581cb3b8b",
+      "css": "align-left",
+      "orig_css": "align-left",
+      "orig_code": 59262,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "editor",
+        "align",
+        "center"
+      ],
+      "code": 59263,
+      "from": 59263,
+      "uid": "ae6336c46d73af999fe7460c089abb4d",
+      "css": "align-center",
+      "orig_css": "align-center",
+      "orig_code": 59263,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "editor",
+        "align",
+        "right"
+      ],
+      "code": 59264,
+      "from": 59264,
+      "uid": "e1e7306b47c3c5e6faecce9d32571381",
+      "css": "align-right",
+      "orig_css": "align-right",
+      "orig_code": 59264,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "editor",
+        "align",
+        "justify"
+      ],
+      "code": 59265,
+      "from": 59265,
+      "uid": "25a81737628d1e654a30ad412d7d6dd7",
+      "css": "align-justify",
+      "orig_css": "align-justify",
+      "orig_code": 59265,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "editor",
+        "indent"
+      ],
+      "code": 59267,
+      "from": 59267,
+      "uid": "594e9271c08ff732c04b3bf3117b9040",
+      "css": "indent-left",
+      "orig_css": "indent-left",
+      "orig_code": 59267,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "editor",
+        "indent"
+      ],
+      "code": 59268,
+      "from": 59268,
+      "uid": "4d2dfc45d8176b1f26aed973fa84a91e",
+      "css": "indent-right",
+      "orig_css": "indent-right",
+      "orig_code": 59268,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "off"
+      ],
+      "code": 59278,
+      "from": 59278,
+      "uid": "8b9e6a8dd8f67f7c003ed8e7e5ee0857",
+      "css": "off",
+      "orig_css": "off",
+      "orig_code": 59278,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "flow",
+        "cascade",
+        "junction"
+      ],
+      "code": 59280,
+      "from": 59280,
+      "uid": "898ddc67cb7d9ae53dbd4cce78043e9e",
+      "css": "flow-cascade",
+      "orig_css": "flow-cascade",
+      "orig_code": 59280,
+      "src": "entypo"
+    },
+    {
+      "search": [
+        "flow",
+        "tree",
+        "junction"
+      ],
+      "code": 59282,
+      "from": 59282,
+      "uid": "8a1d446e5555e76f82ddb1c8b526f579",
+      "css": "flow-tree",
+      "orig_css": "flow-tree",
+      "orig_code": 59282,
+      "src": "entypo"
+    },
+    {
+      "search": [
+        "terminal",
+        "prompt"
+      ],
+      "code": 59308,
+      "from": 59308,
+      "uid": "e92e6cad2da0ee4bc374a1ef4c6ab12b",
+      "css": "terminal",
+      "orig_css": "terminal",
+      "orig_code": 59308,
+      "src": "websymbols"
+    },
+    {
+      "search": [
+        "easel",
+        "stand"
+      ],
+      "code": 59317,
+      "from": 59317,
+      "uid": "px45pk7jgwms9zb3zcm44h8al4f3xxkd",
+      "css": "easel",
+      "orig_css": "easel",
+      "orig_code": 59317,
+      "src": "modernpics"
+    },
+    {
+      "search": [
+        "emoticon",
+        "smiley",
+        "happy"
+      ],
+      "code": 59392,
+      "meta": {
+        "email": "berbentseva_angela@yahoo.com",
+        "author": "Angela Berbentseva, specially for fontello"
+      },
+      "uid": "c64623255a4a7c72436b199b05296c4f",
+      "css": "emo-happy",
+      "orig_css": "emo-happy",
+      "orig_code": 59392,
+      "src": "fontelico",
+      "from": 59392
+    },
+    {
+      "search": [
+        "emoticon",
+        "smiley",
+        "wink"
+      ],
+      "code": 59393,
+      "meta": {
+        "email": "berbentseva_angela@yahoo.com",
+        "author": "Angela Berbentseva, specially for fontello"
+      },
+      "uid": "1ba44825e5f10920b4e3f1d0c73f79a2",
+      "css": "emo-wink",
+      "orig_css": "emo-wink",
+      "orig_code": 59393,
+      "src": "fontelico",
+      "from": 59393
+    },
+    {
+      "search": [
+        "emoticon",
+        "smiley",
+        "unhappy"
+      ],
+      "code": 59394,
+      "meta": {
+        "email": "berbentseva_angela@yahoo.com",
+        "author": "Angela Berbentseva, specially for fontello"
+      },
+      "uid": "53ed8570225581269cd7eff5795e8bea",
+      "css": "emo-unhappy",
+      "orig_css": "emo-unhappy",
+      "orig_code": 59394,
+      "src": "fontelico",
+      "from": 59394
+    },
+    {
+      "search": [
+        "emoticon",
+        "smiley",
+        "sleep"
+      ],
+      "code": 59395,
+      "meta": {
+        "email": "berbentseva_angela@yahoo.com",
+        "author": "Angela Berbentseva, specially for fontello"
+      },
+      "uid": "fd59eac4d575b48eb156590b63a355fd",
+      "css": "emo-sleep",
+      "orig_css": "emo-sleep",
+      "orig_code": 59395,
+      "src": "fontelico",
+      "from": 59395
+    },
+    {
+      "search": [
+        "emoticon",
+        "smiley",
+        "thumbsup"
+      ],
+      "code": 59396,
+      "meta": {
+        "email": "berbentseva_angela@yahoo.com",
+        "author": "Angela Berbentseva, specially for fontello"
+      },
+      "uid": "142263941b9f4cd4b2b84f1f4cd13b1d",
+      "css": "emo-thumbsup",
+      "orig_css": "emo-thumbsup",
+      "orig_code": 59396,
+      "src": "fontelico",
+      "from": 59396
+    },
+    {
+      "search": [
+        "emoticon",
+        "smiley",
+        "devil"
+      ],
+      "code": 59397,
+      "meta": {
+        "email": "berbentseva_angela@yahoo.com",
+        "author": "Angela Berbentseva, specially for fontello"
+      },
+      "uid": "4dd56d61fd0dab19277824da301424b3",
+      "css": "emo-devil",
+      "orig_css": "emo-devil",
+      "orig_code": 59397,
+      "src": "fontelico",
+      "from": 59397
+    },
+    {
+      "search": [
+        "emoticon",
+        "smiley",
+        "tongue"
+      ],
+      "code": 59399,
+      "meta": {
+        "email": "berbentseva_angela@yahoo.com",
+        "author": "Angela Berbentseva, specially for fontello"
+      },
+      "uid": "bb68a13a3574b087d4350eff0b8d48e3",
+      "css": "emo-tongue",
+      "orig_css": "emo-tongue",
+      "orig_code": 59399,
+      "src": "fontelico",
+      "from": 59399
+    },
+    {
+      "search": [
+        "emoticon",
+        "smiley",
+        "coffee"
+      ],
+      "code": 59400,
+      "meta": {
+        "email": "berbentseva_angela@yahoo.com",
+        "author": "Angela Berbentseva, specially for fontello"
+      },
+      "uid": "48cc210e59ff4bc56b6c8fba6eb384b8",
+      "css": "emo-coffee",
+      "orig_css": "emo-coffee",
+      "orig_code": 59400,
+      "src": "fontelico",
+      "from": 59400
+    },
+    {
+      "search": [
+        "emoticon",
+        "smiley",
+        "displeased"
+      ],
+      "code": 59402,
+      "meta": {
+        "email": "berbentseva_angela@yahoo.com",
+        "author": "Angela Berbentseva, specially for fontello"
+      },
+      "uid": "043b585886018be7408f4c77c1a3759c",
+      "css": "emo-displeased",
+      "orig_css": "emo-displeased",
+      "orig_code": 59402,
+      "src": "fontelico",
+      "from": 59402
+    },
+    {
+      "search": [
+        "emoticon",
+        "smiley",
+        "beer"
+      ],
+      "code": 59403,
+      "meta": {
+        "email": "berbentseva_angela@yahoo.com",
+        "author": "Angela Berbentseva, specially for fontello"
+      },
+      "uid": "3a900d0e9f43f5409211f62bec557379",
+      "css": "emo-beer",
+      "orig_css": "emo-beer",
+      "orig_code": 59403,
+      "src": "fontelico",
+      "from": 59403
+    },
+    {
+      "search": [
+        "emoticon",
+        "smiley",
+        "shoot"
+      ],
+      "code": 59408,
+      "meta": {
+        "email": "berbentseva_angela@yahoo.com",
+        "author": "Angela Berbentseva, specially for fontello"
+      },
+      "uid": "4843d0d6050dd508d4c101a334f46db2",
+      "css": "emo-shoot",
+      "orig_css": "emo-shoot",
+      "orig_code": 59408,
+      "src": "fontelico",
+      "from": 59408
+    },
+    {
+      "search": [
+        "building"
+      ],
+      "code": 59409,
+      "uid": "fc455b9530e0b37facc289f42a120fdd",
+      "css": "commerical-building",
+      "orig_css": "commerical-building",
+      "orig_code": 59409,
+      "src": "maki",
+      "from": 59409
+    },
+    {
+      "search": [
+        "emoticon",
+        "smiley",
+        "laugh"
+      ],
+      "code": 59410,
+      "meta": {
+        "email": "berbentseva_angela@yahoo.com",
+        "author": "Angela Berbentseva, specially for fontello"
+      },
+      "uid": "2bd5f98482d86649958312ea2ab5bb40",
+      "css": "emo-laugh",
+      "orig_css": "emo-laugh",
+      "orig_code": 59410,
+      "src": "fontelico",
+      "from": 59410
+    },
+    {
+      "search": [
+        "minefield"
+      ],
+      "code": 59430,
+      "uid": "3e98530afcd866a9d607f8be2b5aa159",
+      "css": "minefield",
+      "orig_css": "minefield",
+      "orig_code": 59430,
+      "src": "maki",
+      "from": 59430
+    },
+    {
+      "search": [
+        "load",
+        "progress",
+        "wait"
+      ],
+      "code": 59440,
+      "meta": {
+        "email": "berbentseva_angela@yahoo.com",
+        "author": "Angela Berbentseva, specially for fontello"
+      },
+      "uid": "72109d2fb3088d0e66ea6a9204297651",
+      "css-ext": "animate-spin",
+      "css": "spin1",
+      "orig_css": "spin1",
+      "orig_code": 59440,
+      "src": "fontelico",
+      "from": 59440
+    },
+    {
+      "search": [
+        "load",
+        "progress",
+        "wait"
+      ],
+      "code": 59444,
+      "meta": {
+        "email": "berbentseva_angela@yahoo.com",
+        "author": "Angela Berbentseva, specially for fontello"
+      },
+      "uid": "9bd60140934a1eb9236fd7a8ab1ff6ba",
+      "css-ext": "animate-spin",
+      "css": "spin4",
+      "orig_css": "spin4",
+      "orig_code": 59444,
+      "src": "fontelico",
+      "from": 59444
+    },
+    {
+      "search": [
+        "load",
+        "progress",
+        "wait"
+      ],
+      "code": 59449,
+      "meta": {
+        "email": "berbentseva_angela@yahoo.com",
+        "author": "Angela Berbentseva, specially for fontello"
+      },
+      "uid": "9bc2902722abb366a213a052ade360bc",
+      "css-ext": "animate-spin",
+      "css": "spin6",
+      "orig_css": "spin6",
+      "orig_code": 59449,
+      "src": "fontelico",
+      "from": 59449
+    },
+    {
+      "search": [
+        "theatre"
+      ],
+      "code": 59450,
+      "uid": "5f89d009e91c94c7c9be2f8711d7a2eb",
+      "css": "theatre",
+      "orig_css": "theatre",
+      "orig_code": 59450,
+      "src": "maki",
+      "from": 59450
+    },
+    {
+      "search": [
+        "toilet"
+      ],
+      "code": 59451,
+      "uid": "0d0a49f05cb202227853f85ce5f63cdc",
+      "css": "toilet",
+      "orig_css": "toilet",
+      "orig_code": 59451,
+      "src": "maki",
+      "from": 59451
+    },
+    {
+      "search": [
+        "check",
+        "empty"
+      ],
+      "code": 61590,
+      "uid": "4b900d04e8ab8c82f080c1cfbac5772c",
+      "css": "check-empty",
+      "orig_css": "check-empty",
+      "orig_code": 61590,
+      "src": "fontawesome",
+      "from": 61590
+    },
+    {
+      "search": [
+        "list"
+      ],
+      "code": 61642,
+      "uid": "a2a74f5e7b7d9ba054897d8c795a326a",
+      "css": "list-bullet",
+      "orig_css": "list-bullet",
+      "orig_code": 61642,
+      "src": "fontawesome",
+      "from": 61642
+    },
+    {
+      "search": [
+        "list"
+      ],
+      "code": 61643,
+      "uid": "f6766a8b042c2453a4e153af03294383",
+      "css": "list-numbered",
+      "orig_css": "list-numbered",
+      "orig_code": 61643,
+      "src": "fontawesome",
+      "from": 61643
+    },
+    {
+      "search": [
+        "strike"
+      ],
+      "code": 61644,
+      "uid": "61c242c9e2134d5864d7fdd57b3c9289",
+      "css": "strike",
+      "orig_css": "strike",
+      "orig_code": 61644,
+      "src": "fontawesome",
+      "from": 61644
+    },
+    {
+      "search": [
+        "underline"
+      ],
+      "code": 61645,
+      "uid": "d4a4a38a40b728f46dad1de4ac950231",
+      "css": "underline",
+      "orig_css": "underline",
+      "orig_code": 61645,
+      "src": "fontawesome",
+      "from": 61645
+    },
+    {
+      "search": [
+        "building"
+      ],
+      "code": 61687,
+      "uid": "3d1e04316a48ace4e2b81be58343a41c",
+      "css": "building",
+      "orig_css": "building",
+      "orig_code": 61687,
+      "src": "fontawesome",
+      "from": 61687
+    },
+    {
+      "search": [
+        "angle",
+        "up"
+      ],
+      "code": 61698,
+      "uid": "63b3012c8cbe3654ba5bea598235aa3a",
+      "css": "angle-double-up",
+      "orig_css": "angle-double-up",
+      "orig_code": 61698,
+      "src": "fontawesome",
+      "from": 61698
+    },
+    {
+      "search": [
+        "angle",
+        "down"
+      ],
+      "code": 61699,
+      "uid": "dfec4ffa849d8594c2e4b86f6320b8a6",
+      "css": "angle-double-down",
+      "orig_css": "angle-double-down",
+      "orig_code": 61699,
+      "src": "fontawesome",
+      "from": 61699
+    },
+    {
+      "search": [
+        "desktop"
+      ],
+      "code": 61704,
+      "uid": "757afacc32d82967975cbb3b45cfb41b",
+      "css": "desktop",
+      "orig_css": "desktop",
+      "orig_code": 61704,
+      "src": "fontawesome",
+      "from": 61704
+    },
+    {
+      "search": [
+        "laptop"
+      ],
+      "code": 61705,
+      "uid": "500fc1f109021e4b1de4deda2f7ed399",
+      "css": "laptop",
+      "orig_css": "laptop",
+      "orig_code": 61705,
+      "src": "fontawesome",
+      "from": 61705
+    },
+    {
+      "search": [
+        "tablet"
+      ],
+      "code": 61706,
+      "uid": "f001fc3d4daa7da078e8c971e4f36977",
+      "css": "tablet",
+      "orig_css": "tablet",
+      "orig_code": 61706,
+      "src": "fontawesome",
+      "from": 61706
+    },
+    {
+      "search": [
+        "mobile"
+      ],
+      "code": 61707,
+      "uid": "0357f7abbc0babf43509669f332e41e6",
+      "css": "mobile-1",
+      "orig_css": "mobile",
+      "orig_code": 61707,
+      "src": "fontawesome",
+      "from": 61707
+    },
+    {
+      "search": [
+        "circle"
+      ],
+      "code": 61708,
+      "uid": "422e07e5afb80258a9c4ed1706498f8a",
+      "css": "circle-empty",
+      "orig_css": "circle-empty",
+      "orig_code": 61708,
+      "src": "fontawesome",
+      "from": 61708
+    },
+    {
+      "search": [
+        "circle"
+      ],
+      "code": 61713,
+      "uid": "130380e481a7defc690dfb24123a1f0c",
+      "css": "circle",
+      "orig_css": "circle",
+      "orig_code": 61713,
+      "src": "fontawesome",
+      "from": 61713
+    },
+    {
+      "search": [
+        "icq"
+      ],
+      "code": 62212,
+      "meta": {
+        "twitter": "https://twitter.com/puzrin",
+        "github": "https://github.com/puzrin",
+        "author": "Vitaly Puzrin"
+      },
+      "uid": "01f67de2dc0137389f1c3aced6273acd",
+      "file": "icq",
+      "css": "icq",
+      "orig_css": "icq",
+      "orig_code": 62212,
+      "src": "brandico",
+      "from": 62212
+    },
+    {
+      "search": [
+        "yandex"
+      ],
+      "code": 62214,
+      "meta": {
+        "twitter": "https://twitter.com/puzrin",
+        "github": "https://github.com/puzrin",
+        "author": "Vitaly Puzrin"
+      },
+      "uid": "ea0cb6bedac64ae7933b03dad3130ef6",
+      "file": "yandex-rect",
+      "css": "yandex-rect",
+      "orig_css": "yandex-rect",
+      "orig_code": 62214,
+      "src": "brandico",
+      "from": 62214
+    },
+    {
+      "search": [
+        "google"
+      ],
+      "code": 62217,
+      "meta": {
+        "homepage": "http://www.google.com/+/business/brand-guidelines.html",
+        "author": "Google"
+      },
+      "uid": "626fb97a7c0c0db53a1853fb9e96e223",
+      "file": "googleplus-rect",
+      "css": "googleplus-rect",
+      "orig_css": "googleplus-rect",
+      "orig_code": 62217,
+      "src": "brandico",
+      "from": 62217
+    },
+    {
+      "search": [
+        "vkontakte"
+      ],
+      "code": 62218,
+      "meta": {
+        "homepage": "http://vk.com/help.php?page=about",
+        "author": "Vkontakte"
+      },
+      "uid": "5b16ceef1c8638bd5389c9302ea04098",
+      "file": "vkontakte-rect",
+      "css": "vkontakte-rect",
+      "orig_css": "vkontakte-rect",
+      "orig_code": 62218,
+      "src": "brandico",
+      "from": 62218
+    },
+    {
+      "search": [
+        "odnoklassniki"
+      ],
+      "code": 62220,
+      "meta": {
+        "homepage": "http://corp.mail.ru/communications/odnoklassniki",
+        "author": "MailRu Group"
+      },
+      "uid": "229e50061df526f24f1ae884fab52101",
+      "file": "odnoklassniki",
+      "css": "odnoklassniki",
+      "orig_css": "odnoklassniki",
+      "orig_code": 62220,
+      "src": "brandico",
+      "from": 62220
+    },
+    {
+      "search": [
+        "odnoklassniki"
+      ],
+      "code": 62221,
+      "meta": {
+        "homepage": "http://corp.mail.ru/communications/odnoklassniki",
+        "author": "MailRu Group"
+      },
+      "uid": "4a02cc611ae9fb342d6026b2ed6cc44e",
+      "file": "odnoklassniki-rect",
+      "css": "odnoklassniki-rect",
+      "orig_css": "odnoklassniki-rect",
+      "orig_code": 62221,
+      "src": "brandico",
+      "from": 62221
+    },
+    {
+      "search": [
+        "vimeo"
+      ],
+      "code": 62222,
+      "meta": {
+        "twitter": "https://twitter.com/puzrin",
+        "github": "https://github.com/puzrin",
+        "author": "Vitaly Puzrin"
+      },
+      "uid": "31483d870b3f14ac12bdfe7331a6af99",
+      "file": "vimeo-rect",
+      "css": "vimeo-rect",
+      "orig_css": "vimeo-rect",
+      "orig_code": 62222,
+      "src": "brandico",
+      "from": 62222
+    },
+    {
+      "search": [
+        "jabber"
+      ],
+      "code": 62231,
+      "meta": {
+        "homepage": "http://xmpp.org",
+        "author": "Jabber Software Foundation"
+      },
+      "uid": "466d1430ec2e11e1aff10800200c9a66",
+      "file": "jabber",
+      "css": "jabber",
+      "orig_css": "jabber",
+      "orig_code": 62231,
+      "src": "brandico",
+      "from": 62231
+    },
+    {
+      "search": [
+        "lastfm"
+      ],
+      "code": 62232,
+      "meta": {
+        "homepage": "http://www.last.fm/resources",
+        "author": "Last.fm"
+      },
+      "uid": "9e237480ec2e11e1aff10800200c9a66",
+      "file": "lastfm",
+      "css": "lastfm",
+      "orig_css": "lastfm",
+      "orig_code": 62232,
+      "src": "brandico",
+      "from": 62232
+    },
+    {
+      "search": [
+        "lastfm"
+      ],
+      "code": 62233,
+      "meta": {
+        "homepage": "http://www.last.fm/resources",
+        "author": "Last.fm"
+      },
+      "uid": "53a3bbcda09740c98a1c3d2e0a6a89fb",
+      "file": "lastfm-rect",
+      "css": "lastfm-rect",
+      "orig_css": "lastfm-rect",
+      "orig_code": 62233,
+      "src": "brandico",
+      "from": 62233
+    },
+    {
+      "search": [
+        "skype",
+        "social",
+        "logo"
+      ],
+      "code": 62265,
+      "uid": "28ccaf022b8363aeaa5b86f66e1f5173",
+      "css": "skype",
+      "orig_css": "skype",
+      "orig_code": 62265,
+      "src": "entypo",
+      "from": 62265
+    },
+    {
+      "search": [
+        "image",
+        "picture",
+        "photo"
+      ],
+      "code": 127748,
+      "uid": "3def559c3c39b8500882e02892b7daa8",
+      "css": "picture",
+      "orig_css": "picture",
+      "orig_code": 127748,
+      "src": "entypo",
+      "from": 127748
+    },
+    {
+      "search": [
+        "globe"
+      ],
+      "code": 127758,
+      "uid": "6a12c2b74456ea21cc984e11dec227a1",
+      "css": "globe",
+      "orig_css": "globe",
+      "orig_code": 127758,
+      "src": "entypo",
+      "from": 127758
+    },
+    {
+      "search": [
+        "graduation"
+      ],
+      "code": 127891,
+      "uid": "ef74ff62feda486fd414410e782b598a",
+      "css": "graduation-cap",
+      "orig_css": "graduation-cap",
+      "orig_code": 127891,
+      "src": "entypo",
+      "from": 127891
+    },
+    {
+      "search": [
+        "mic"
+      ],
+      "code": 127908,
+      "uid": "1e099a876c8a6a83f10c9bafa9886614",
+      "css": "mic",
+      "orig_css": "mic",
+      "orig_code": 127908,
+      "src": "entypo",
+      "from": 127908
+    },
+    {
+      "search": [
+        "movie",
+        "video",
+        "film"
+      ],
+      "code": 127916,
+      "uid": "6341ebcbe1ed1f6777c1b9527ead368e",
+      "css": "video",
+      "orig_css": "video",
+      "orig_code": 127916,
+      "src": "entypo",
+      "from": 127916
+    },
+    {
+      "search": [
+        "top",
+        "trophy"
+      ],
+      "code": 127942,
+      "uid": "978aa8facd816df874039e139cb0cdde",
+      "css": "trophy",
+      "orig_css": "trophy",
+      "orig_code": 127942,
+      "src": "entypo",
+      "from": 127942
+    },
+    {
+      "search": [
+        "top",
+        "trophy",
+        "prize",
+        "award"
+      ],
+      "code": 127945,
+      "from": 127945,
+      "uid": "lnyme20kl7kh26it9yrqk7at10k6i0sf",
+      "css": "award",
+      "orig_css": "award",
+      "orig_code": 127945,
+      "src": "modernpics"
+    },
+    {
+      "search": [
+        "thumbs",
+        "up",
+        "like",
+        "love",
+        "vote"
+      ],
+      "code": 128077,
+      "uid": "7ad4d2306ebda8452e5e3eff3cd8241c",
+      "css": "thumbs-up",
+      "orig_css": "thumbs-up",
+      "orig_code": 128077,
+      "src": "entypo",
+      "from": 128077
+    },
+    {
+      "search": [
+        "thumbs",
+        "down",
+        "dislike",
+        "unlike",
+        "vote"
+      ],
+      "code": 128078,
+      "uid": "429fba993b729174468a9493613ad1ba",
+      "css": "thumbs-down",
+      "orig_css": "thumbs-down",
+      "orig_code": 128078,
+      "src": "entypo",
+      "from": 128078
+    },
+    {
+      "search": [
+        "profile",
+        "contact",
+        "user"
+      ],
+      "code": 128100,
+      "from": 128100,
+      "uid": "8b80d36d4ef43889db10bc1f0dc9a862",
+      "css": "user",
+      "orig_css": "user",
+      "orig_code": 128100,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "profile",
+        "contact",
+        "user"
+      ],
+      "code": 59405,
+      "from": 128100,
+      "uid": "bczb7qup4axmc490xmuuv8qdhcnbgeyf",
+      "css": "user-1",
+      "orig_css": "user",
+      "orig_code": 59405,
+      "src": "typicons"
+    },
+    {
+      "search": [
+        "users",
+        "contacts",
+        "friends"
+      ],
+      "code": 128101,
+      "from": 128101,
+      "uid": "31972e4e9d080eaa796290349ae6c1fd",
+      "css": "users",
+      "orig_css": "users",
+      "orig_code": 128101,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "users",
+        "contacts",
+        "friends"
+      ],
+      "code": 59404,
+      "from": 128101,
+      "uid": "x8m4z7b33cv1h2s784tjlam56uq40wtd",
+      "css": "users-1",
+      "orig_css": "users",
+      "orig_code": 59404,
+      "src": "typicons"
+    },
+    {
+      "search": [
+        "tv",
+        "screen",
+        "monitor"
+      ],
+      "code": 128187,
+      "uid": "b7a336095aa4535c3689cb557edf23db",
+      "css": "monitor",
+      "orig_css": "monitor",
+      "orig_code": 128187,
+      "src": "entypo",
+      "from": 128187
+    },
+    {
+      "search": [
+        "floppy",
+        "save"
+      ],
+      "code": 128190,
+      "uid": "191bcf63575a78def53c907c3d3bf7f0",
+      "css": "floppy",
+      "orig_css": "floppy",
+      "orig_code": 128190,
+      "src": "entypo",
+      "from": 128190
+    },
+    {
+      "search": [
+        "cd",
+        "vinyl"
+      ],
+      "code": 128191,
+      "uid": "16f88519423df34fc5c48be7ded81b8f",
+      "css": "cd",
+      "orig_css": "cd",
+      "orig_code": 128191,
+      "src": "entypo",
+      "from": 128191
+    },
+    {
+      "search": [
+        "folder"
+      ],
+      "code": 128193,
+      "from": 128193,
+      "uid": "f8aa663c489bcbd6e68ec8147dca841e",
+      "css": "folder",
+      "orig_css": "folder",
+      "orig_code": 128193,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "folder"
+      ],
+      "code": 128194,
+      "from": 128194,
+      "uid": "c95735c17a10af81448c7fed98a04546",
+      "css": "folder-open",
+      "orig_css": "folder-open",
+      "orig_code": 128194,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "doc",
+        "text",
+        "article"
+      ],
+      "code": 128196,
+      "uid": "1189604bf305b6b03a74685ce60e6632",
+      "css": "doc-text",
+      "orig_css": "doc-text",
+      "orig_code": 128196,
+      "src": "entypo",
+      "from": 128196
+    },
+    {
+      "search": [
+        "calendar",
+        "date"
+      ],
+      "code": 128197,
+      "from": 128197,
+      "uid": "531bc468eecbb8867d822f1c11f1e039",
+      "css": "calendar-1",
+      "orig_css": "calendar",
+      "orig_code": 128197,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "calendar",
+        "date"
+      ],
+      "code": 59414,
+      "uid": "c833c98d78cfebed5780cfaaa302a12b",
+      "file": "calendar_alt_stroke",
+      "css": "calendar",
+      "orig_css": "calendar",
+      "orig_code": 59414,
+      "src": "iconic",
+      "from": 128197
+    },
+    {
+      "search": [
+        "chart",
+        "graph",
+        "line",
+        "diagram"
+      ],
+      "code": 128200,
+      "uid": "7184d8171b6a9b18eabbace94cca21db",
+      "css": "chart-line",
+      "orig_css": "chart-line",
+      "orig_code": 128200,
+      "src": "entypo",
+      "from": 128200
+    },
+    {
+      "search": [
+        "clipboard"
+      ],
+      "code": 128203,
+      "uid": "b95cfc96d48a72dd665e0ab109880b5e",
+      "css": "clipboard",
+      "orig_css": "clipboard",
+      "orig_code": 128203,
+      "src": "entypo",
+      "from": 128203
+    },
+    {
+      "search": [
+        "attach",
+        "clip"
+      ],
+      "code": 59415,
+      "uid": "44b9e75612c5fad5505edd70d071651f",
+      "css": "attach-1",
+      "orig_css": "attach",
+      "orig_code": 59415,
+      "src": "entypo",
+      "from": 128206
+    },
+    {
+      "search": [
+        "book"
+      ],
+      "code": 128213,
+      "uid": "48b79f27e4798f23bafa07b55dbe5b73",
+      "css": "book",
+      "orig_css": "book",
+      "orig_code": 128213,
+      "src": "entypo",
+      "from": 128213
+    },
+    {
+      "search": [
+        "book"
+      ],
+      "code": 59401,
+      "from": 128213,
+      "uid": "9755f76110ae4d12ac5f9466c9152031",
+      "css": "book-1",
+      "orig_css": "book",
+      "orig_code": 59401,
+      "src": "fontawesome"
+    },
+    {
+      "search": null,
+      "code": 128222,
+      "from": 128222,
+      "uid": "24eiet6l58t0myywueih34b0e5a30bw1",
+      "css": "phone",
+      "orig_css": "phone",
+      "orig_code": 128222,
+      "src": "typicons"
+    },
+    {
+      "search": [
+        "newspaper",
+        "article"
+      ],
+      "code": 128240,
+      "uid": "da0fd38d651815e3a12f6c030ff1fe5b",
+      "css": "newspaper",
+      "orig_css": "newspaper",
+      "orig_code": 128240,
+      "src": "entypo",
+      "from": 128240
+    },
+    {
+      "search": [
+        "mobile",
+        "iphone"
+      ],
+      "code": 128241,
+      "uid": "767fede84586366cd7d6c835be745454",
+      "css": "mobile",
+      "orig_css": "mobile",
+      "orig_code": 128241,
+      "src": "entypo",
+      "from": 128241
+    },
+    {
+      "search": [
+        "camera",
+        "photo"
+      ],
+      "code": 128247,
+      "uid": "85017ab6ca074831a8de771b40e9640c",
+      "css": "camera",
+      "orig_css": "camera",
+      "orig_code": 128247,
+      "src": "entypo",
+      "from": 128247
+    },
+    {
+      "search": [
+        "search",
+        "find"
+      ],
+      "code": 59398,
+      "uid": "7222571caa5c15f83dcfd447c58d68d9",
+      "css": "search-1",
+      "orig_css": "search",
+      "orig_code": 59398,
+      "src": "entypo",
+      "from": 128269
+    },
+    {
+      "search": [
+        "search",
+        "find"
+      ],
+      "code": 128269,
+      "from": 128269,
+      "uid": "9dd9e835aebe1060ba7190ad2b2ed951",
+      "css": "search",
+      "orig_css": "search",
+      "orig_code": 128269,
+      "src": "fontawesome"
+    },
+    {
+      "search": [
+        "search",
+        "find"
+      ],
+      "code": 59412,
+      "from": 128269,
+      "uid": "t6cy82vd3t5piy0j3uknrlrzpg1ld8y3",
+      "css": "search-2",
+      "orig_css": "search",
+      "orig_code": 59412,
+      "src": "typicons"
+    },
+    {
+      "search": [
+        "key",
+        "password"
+      ],
+      "code": 128273,
+      "uid": "8beac4a5fd5bed9f82ca7a96cc8ba218",
+      "css": "key",
+      "orig_css": "key",
+      "orig_code": 128273,
+      "src": "entypo",
+      "from": 128273
+    },
+    {
+      "search": [
+        "lock"
+      ],
+      "code": 128274,
+      "uid": "1a7104205ea96e6f40ac716d0ca72f21",
+      "css": "lock",
+      "orig_css": "lock",
+      "orig_code": 128274,
+      "src": "entypo",
+      "from": 128274
+    },
+    {
+      "search": [
+        "lock",
+        "open",
+        "unlock"
+      ],
+      "code": 128275,
+      "uid": "e81fc3a0d39ace6ee735d7b24eedd56d",
+      "css": "lock-open",
+      "orig_css": "lock-open",
+      "orig_code": 128275,
+      "src": "entypo",
+      "from": 128275
+    },
+    {
+      "search": [
+        "bookmark"
+      ],
+      "code": 128278,
+      "uid": "23912d5623126e14b7b137c3ba557168",
+      "css": "bookmark",
+      "orig_css": "bookmark",
+      "orig_code": 128278,
+      "src": "entypo",
+      "from": 128278
+    },
+    {
+      "search": [
+        "bookmark"
+      ],
+      "code": 59407,
+      "from": 128278,
+      "uid": "gr2i0fsmy50yfjhz6defsqkexnmctv8z",
+      "css": "bookmark-1",
+      "orig_css": "bookmark",
+      "orig_code": 59407,
+      "src": "typicons"
+    },
+    {
+      "search": [
+        "link",
+        "url",
+        "address"
+      ],
+      "code": 128279,
+      "from": 128279,
+      "uid": "3c4a596e8ee3584c4c9e7002371db19f",
+      "css": "link",
+      "orig_css": "link",
+      "orig_code": 128279,
+      "src": "websymbols"
+    },
+    {
+      "search": [
+        "clock",
+        "time"
+      ],
+      "code": 128340,
+      "uid": "8663320a860b00f26e94d3d15c9ba99a",
+      "css": "clock",
+      "orig_css": "clock",
+      "orig_code": 128340,
+      "src": "entypo",
+      "from": 128340
+    }
+  ]
+}

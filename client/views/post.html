@@ -1,0 +1,69 @@
+<template name="stream">
+  {{#if loading}}
+  <div class="row">
+    <div class="small-1 small-centered columns">
+      <i class="icon-spin4 animate-spin"></i>
+    </div>
+  </div>
+  {{else}}
+    {{#each posts}}
+      {{> post}}
+    {{/each}}
+    Всего {{count}} заметок.
+  {{/if}}
+</template>
+
+<template name="post">
+  <article class="post card">
+    {{#if currentUser}}
+    <ul class="post-menu">
+      <li class="rm-post"><i class="icon-cancel"></i></li>
+      {{#if contenteditable}}
+      <li class="post-submit-changes"><i class="icon-ok"></i></li>
+      {{else}}
+      <li class="post-edit"><i class="icon-cog"></i></li>
+      {{/if}}
+    </ul>    
+    {{/if}}
+    <div class="article-header">
+      <h2 class="post-title" {{contenteditable}}>{{title}}</h2>
+      <div class="article-subheader">
+        <div class="article-date">
+          {{#if contenteditable}}
+            <input id="post-date-update" type="text" placeholder="Выберите новую дату">
+          {{else}}
+          Created at {{formatDate date}} by {{owner.emails.0.address}}
+          {{/if}}
+        </div>
+      </div>
+    </div>
+    <div {{contenteditable}} class="article-content">
+       {{{text}}}
+    </div>
+    {{#if tags}}
+    <div class="article-footer">      
+      <i class="icon-tag"></i>
+        {{#each tag_objs}}
+          <div class="tag">
+            <span class="tag-name">{{tag}}</span>
+            {{#if currentUser}}
+            <i class="icon-cancel rm-tag"></i>
+            {{/if}}
+          </div>
+        {{/each}}
+      
+      {{#if currentUser}}
+        {{#if adding_tag}}
+          <span class="tag edittag">
+            <input type="text" id="edittag-input" value="" />
+          </span>
+        {{else}}
+          <span class="tag addtag">
+            +tag
+          </span>
+        {{/if}}
+      {{/if}}
+    </div>
+    {{/if}}
+  </article>
+</template>

@@ -1,0 +1,13 @@
+.pickadate__frame table {
+    margin-bottom: 0;
+    border: none;
+}
+
+.pickadate__frame table thead {
+    background-color: #fff;
+}
+
+.pickadate__frame table tr:nth-of-type(even) {
+background: #fff;
+}
+
