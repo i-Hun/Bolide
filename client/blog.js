@@ -105,53 +105,24 @@ Template.newPost.rendered = function () {
   });
 //-- Подсказки для тэгов
 
-    $("textarea").wysiwyg({
-      rmUnusedControls: true,
-    });
+tinymce.init({
+    selector: "textarea",
+    theme: "modern",
+    menubar: false,
+    plugins: [
+        "advlist autolink lists link image charmap print preview hr anchor pagebreak",
+        "searchreplace wordcount visualblocks visualchars code fullscreen",
+        "insertdatetime media nonbreaking save table contextmenu directionality",
+        "template paste"
+    ],
+    toolbar1: "insertfile undo redo | styleselect | bold italic | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | link image",
+    toolbar2: "print code preview media | forecolor backcolor",
+    templates: [
+        {title: 'Test template 1', content: 'Test 1'},
+        {title: 'Test template 2', content: 'Test 2'}
+    ],
+});
 
-    $(".bold").click(function () {
-      $("textarea").wysiwyg("triggerControl", "bold");
-    });
-    $(".italic").click(function () {
-      $("textarea").wysiwyg("triggerControl", "italic");
-    });
-    $(".underline").click(function () {
-      $("textarea").wysiwyg("triggerControl", "underline");
-    });
-    $(".strikeThrough").click(function () {
-      $("textarea").wysiwyg("triggerControl", "strikeThrough");
-    });
-
-    $(".justifyLeft").click(function () {
-      $("textarea").wysiwyg("triggerControl", "justifyLeft");
-    });
-    $(".justifyCenter").click(function () {
-      $("textarea").wysiwyg("triggerControl", "justifyCenter");
-    });
-    $(".justifyRight").click(function () {
-      $("textarea").wysiwyg("triggerControl", "justifyRight");
-    });
-    $(".justifyFull").click(function () {
-      $("textarea").wysiwyg("triggerControl", "justifyFull");
-    });
-
-    $(".createLink").click(function () {
-      $("textarea").wysiwyg("triggerControl", "createLink");
-    });
-    $(".unLink").click(function () {
-      $("textarea").wysiwyg("triggerControl", "unLink");
-    });
-
-    $(".ss").click(function () {
-      $("textarea").wysiwyg("triggerControl", "h1");
-    });
-    $(".sd").click(function () {
-      $("textarea").wysiwyg("triggerControl", "h2");
-    });
-
-    $(".sourse").click(function () {
-      $("textarea").wysiwyg("triggerControl", "html");
-    });
 
 }
 
@@ -160,7 +131,7 @@ Template.newPost.events({
     Posts.insert({
       owner: Meteor.user(),
       title: $("#title-area").val(),
-      text: $("textarea").wysiwyg("getContent"),
+      text: tinyMCE.get('editor-area').getContent(),
       date: postCreated,
       tags: $("#add-new-tags").select2("val")
     });
@@ -314,39 +285,6 @@ Template.tag_filter.events({
     else
       Session.set('tag_filter', this.tag);
   }
-});
-// buttonBar template
-Template.buttonBar.events({
-  "click li.bold": function() {
-    document.execCommand( 'bold', false, null ); 
-  },
-  "click li.italic": function() {
-    document.execCommand('italic', false, null ); 
-  },
-  "click li.underline": function() {
-    document.execCommand('underline', false, null ); 
-  },
-  "click li.strike": function() {
-    document.execCommand('strikethrough', false, null ); 
-  },
-  "click li.JustifyLeft": function() {
-    document.execCommand('JustifyLeft', false, null ); 
-  },
-  "click li.JustifyCenter": function() {
-    document.execCommand('JustifyCenter', false, null ); 
-  },
-  "click li.JustifyRight": function() {
-    document.execCommand('JustifyRight', false, null ); 
-  },
-  "click li.JustifyFull": function() {
-    document.execCommand('JustifyFull', false, null ); 
-  },
-  "click li.CreateLink": function() {
-    document.execCommand('CreateLink', false, window.prompt( 'URL:', '' ) ); 
-  },
-  "click li.Unlink": function() {
-    document.execCommand('Unlink', false, null ); 
-  },
 });
 
 // Profile

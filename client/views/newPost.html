@@ -7,36 +7,10 @@
       <input id="date-area" type="text" placeholder="Выберите дату">
     </div>
   </div>
-  {{> buttonBar}}
-  <br>
   <textarea id="editor-area" placeholder=""></textarea>
+  <br>
   <input type="text" id="add-new-tags">
   <br>
   <button id="submit-post" class="button radius">Опубликовать</button>
 </template>
 
-<template name="buttonBar">
-  <div class="button-bar">
-    <ul class="text-edit-toolbar button-group radius">
-      <li class="bold button secondary small"><i class="icon-bold"></i></li>
-      <li class="italic button secondary small"><i class="icon-italic"></i></li>
-      <li class="underline button secondary small"><i class="icon-underline"></i></li>
-      <li class="strikeThrough button secondary small"><i class="icon-strike"></i></li>
-    </ul>
-    <ul class="text-edit-toolbar button-group radius">
-      <li class="justifyLeft button secondary small"><i class="icon-align-left"></i></li>
-      <li class="justifyCenter button secondary small"><i class="icon-align-center"></i></li>
-      <li class="justifyRight button secondary small"><i class="icon-align-right"></i></li>
-      <li class="justifyFull button secondary small"><i class="icon-align-justify"></i></li>
-    </ul>
-    <ul class="text-edit-toolbar button-group radius">
-      <li class="createLink button secondary small"><i class="icon-link"></i></li>
-      <li class="unLink button secondary small"><i style="color: red" class="icon-link"></i></li>
-    </ul>
-    <ul class="text-edit-toolbar button-group radius">
-      <li class="ss button secondary small">H1</li>
-      <li class="sd button secondary small">H2</li>
-    </ul>
-    <li class="sourse button secondary small radius"><i class="icon-code-1"></i></li>
-  </div>
-</template>
